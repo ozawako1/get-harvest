@@ -1,0 +1,16 @@
+{
+	"COMMON":{
+		"CSVPath"	: "/Users/OzawaKoichi/Develop/output/"
+	},
+	"Harvest":{
+		"SubDomain" : "...",
+		"ID"		: "...",
+		"Password"	: "...",
+        "MUsers"        : "usermaster.csv",
+		"MProjs"        : "projmaster.csv",
+		"ProjHourCsv"   : "projecthours.csv",
+		"UserHourCsv"   : "userhours.csv",
+		"MTasks"        : "taskmaster.csv"
+	}
+}
+
